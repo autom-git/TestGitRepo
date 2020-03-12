@@ -42,7 +42,7 @@
                 <version>2.16</version>
                 <configuration>
                     <suiteXmlFiles>
-                        <suiteXmlFile>src\main\resources\Suites\testng.xml\testng.xml</suiteXmlFile>
+                        <suiteXmlFile>src\main\resources\Suites\testng.xml</suiteXmlFile>
                     </suiteXmlFiles>
                 </configuration>
             </plugin>
